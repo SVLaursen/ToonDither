@@ -1,5 +1,7 @@
 # ToonDither
-Simple toon shader created for fun inside Unity 2019.4 LTS using the default renderer. The shader is unlit and fakes lighting through either the world light or custom inputted light position. 
+Simple toon shader created for fun inside Unity 2019.4 LTS. The shader is unlit and fakes lighting through either the world light or custom inputted light position. 
+
+Currently the shader supports both the Built-in renderer and the Universal Render Pipeline. 
 
 <p align="center">
   <img src="./res/sphere.png">
